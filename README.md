@@ -1,6 +1,4 @@
-Here's the updated GitHub profile README.md with the requested changes:
 
----
 
 <h1 align="center">Hi 👋, I'm Ehsan, the Code Voyager 🛰️</h1>
 <h3 align="center">Intern Backend Developer | MERN Stack Enthusiast</h3>
