@@ -47,6 +47,11 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### Cloud and DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 ## 🖥️ Workspace Setup
 
 ![AMD Ryzen™](https://img.shields.io/badge/AMD-Ryzen™-0071C5?style=for-the-badge&logo=amd&logoColor=white)
