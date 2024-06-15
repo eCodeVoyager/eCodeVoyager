@@ -33,9 +33,9 @@
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Keep React](https://img.shields.io/badge/Keep%20React-0081CB?style=for-the-badge&logo=keep-react&logoColor=white)
+![Keep React](https://img.shields.io/badge/Keep%20React-0081CB?style=for-the-badge&logo=kaios&logoColor=white)
 
 ### Back-End Development
 
@@ -63,6 +63,11 @@
 ## 🌟 Featured Projects
 <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/Project-7ed6ca?style=for-the-badge&logo=polymerproject&logoColor=black"/></a>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eCodeVoyager&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eCodeVoyager&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 🌟 Connect with Me
 
