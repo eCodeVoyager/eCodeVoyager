@@ -8,9 +8,9 @@
 <h2>⚡️ A Few Quick Facts</h2>
 
 <ul>
-<li>🔭 I'm currently working as a backend intern at <a href="https://github.com/nursoftwarebd">Nur IT</a>.</li>
+<li>🔭 I'm currently working as a backend intern at <a href="https://github.com/nur-it">Nur IT</a>.</li>
 <li>🧐 I'm actively learning Go, RESTful APIs, and cloud technologies like Azure and AWS.</li>
-<li>👨‍💻 You can find most of my projects on my <a href="https://ecodevoyager.netlify.app/">Portfolio Website</a>.</li>
+<li>👨‍💻 You can find most of my projects on my <a href="https://ecodevoyager.netlify.app/">Portfolio Website(Currently Not Available)</a>.</li>
 <li>💬 Feel free to reach out to me about React, Node.js, Express, MongoDB, and more.</li>
 <li>📫 You can reach me via email at <a href="mailto:work.alehsan@gmail.com">work.alehsan@gmail.com</a></li>
 </ul>
@@ -71,10 +71,10 @@
 
 ## 🌟 Connect with Me
 
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/al-ehsan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/rootking0" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/__eh_s_an___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
 
