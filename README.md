@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Ehsan, the Code Voyager 🛰️</h1>
-<h3 align="center">Intern Backend Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Web & Software Developer | MERN Stack Developer</h3>
 
 ![Github](https://img.shields.io/github/followers/eCodeVoyager?label=Follow&style=social) ![](https://komarev.com/ghpvc/?username=eCodeVoyager&color=0078C2)
 
 <h2>⚡️ A Few Quick Facts</h2>
 
 <ul>
-<li>🔭 I'm currently working as a backend intern at <a href="https://github.com/nur-it">Nur IT</a>.</li>
+<li>🔭 I'm currently working as a backend developer at <a href="https://github.com/nur-it">Nur IT</a>.</li>
 <li>🧐 I'm actively learning Go, RESTful APIs, and cloud technologies like Azure and AWS.</li>
 <li>👨‍💻 You can find most of my projects on my <a href="https://ecodevoyager.netlify.app/">Portfolio Website(Currently Not Available)</a>.</li>
 <li>💬 Feel free to reach out to me about React, Node.js, Express, MongoDB, and more.</li>
