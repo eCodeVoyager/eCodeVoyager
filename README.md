@@ -1,9 +1,9 @@
 # Hi 👋, I'm **MD Mohiuddin Al Ehsan** 
-## 🚀 Full-Stack Developer | Backend Specialist | AI Enthusiast
+## 🚀 Software Developer | Backend Specialist | AI Enthusiast
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;Backend+Optimization+Expert;98%25+API+Performance+Improvement;AI+%26+Automation+Specialist;Linux+Server+Administrator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;Backend+Optimization+Expert;98%25+API+Performance+Improvement;AI+%26+Automation+;Linux+Server+Administrator)](https://git.io/typing-svg)
 
 ![Github Followers](https://img.shields.io/github/followers/eCodeVoyager?label=Follow&style=for-the-badge&color=0078C2&labelColor=000000)
 ![Profile Views](https://komarev.com/ghpvc/?username=eCodeVoyager&color=0078C2&style=for-the-badge&label=Profile+Views)
